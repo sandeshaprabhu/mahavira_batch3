@@ -3,8 +3,5 @@
 #include<stdio.h>
 //FUNCTION DECLARATION
 
-void printsowmya()
-{
-    printf("I am sowmya \n");
-}
+void printsowmya();
 #endif
