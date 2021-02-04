@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include "sandesh.h"
 #include "vikram.h"
+#include "arnab.h"
 void main()
 {
     ////printing names
@@ -12,7 +13,7 @@ void main()
     printf("I am Sayan Dey\n");
     printf("i am Naveen kumar reddy\n");
     printf(" i am naga chaithanya\n");
-    printf(" i am Arnab Chakraborty\n");
+    
     printf("i am srinidhi g");
     printf("i am sowmya");
 }
