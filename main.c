@@ -8,4 +8,5 @@ void main()
     printf("i am Naveen kumar reddy\n");
     printf(" i am naga chaithanya\n");
     printf(" i am Arnab Chakraborty\n");
+    printf("i am srinidhi g");
 }
