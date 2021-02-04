@@ -6,4 +6,5 @@ void main()
     printf("I am Vikram\n");
     printf("I am Sayan Dey\n");
     printf("i am Naveen kumar reddy\n");
+    printf(" i am naga chaithanya\n");
 }
