@@ -3,8 +3,5 @@
 #include<stdio.h>
 //fUNCTION 
 
-void printsrinidhi()
-{
-    printf("I am Srinidhi G\n");
-}
+void printsrinidhi();
 #endif
