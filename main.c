@@ -1,9 +1,10 @@
 #include<stdio.h>
+#include "sandesh.h"
 void main()
 {
     ////printing names
     //print
-    printf("I am sandesh prabhu \n");
+    printsandesh();
     printf("I am chandan j\n");
     printf("I am Vikram\n");
     printf("I am Sayan Dey\n");
