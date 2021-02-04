@@ -6,7 +6,15 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/sandesh.c
+src/sandesh.c\
+src/arnab.c\
+src/chaitu.c\
+src/chandan.c\
+src/naveen.c\
+src/sayan.c\
+src/sowmya.c\
+src/srinidhi.c\
+src/vikram.c
 
 
 

@@ -3,10 +3,7 @@
 #include<stdio.h>
 //FUNCTION DECLARATION
 
-void printvikram()
-{
-    printf("I am Vikram \n");
-}
+void printvikram();
 
 
 #endif

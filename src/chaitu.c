@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<chaitu.h>
-void printchaitu()
+void printnagachaithanya()
 {
     printf("I am naga chaithanya \n");
 }
