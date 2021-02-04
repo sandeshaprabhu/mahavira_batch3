@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+    ////printing names
     printf("I am sandesh prabhu \n");
     printf("I am chandan j\n");
     printf("I am Vikram\n");
