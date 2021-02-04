@@ -2,18 +2,24 @@
 #include "sandesh.h"
 #include "vikram.h"
 #include "arnab.h"
+#include "chaitu.h"
+#include "chandan.h"
+#include "Naveen.h"
+#include "sayan.h"
+#include "sowmya.h"
+#include "srinidhi.h"
 void main()
 {
     ////printing names
     //print
     printsandesh();
-    printf("I am chandan j\n");
+    printchandan();
     printvikram();
     printarnab();
-    printf("I am Sayan Dey\n");
-    printf("i am Naveen kumar reddy\n");
-    printf(" i am naga chaithanya\n");
+    printsayan();
+    printNaveen();
+    printnagachaithanya();
     
-    printf("i am srinidhi g");
-    printf("i am sowmya");
+    printsrinidhi();
+    printsowmya();
 }
