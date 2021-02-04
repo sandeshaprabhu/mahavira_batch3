@@ -3,10 +3,7 @@
 #include<stdio.h>
 //FUNCTION DECLARATION
 
-void printarnab()
-{
-    printf("I am Arnab Chakraborty \n");
-}
+void printarnab();
 
 
 #endif
