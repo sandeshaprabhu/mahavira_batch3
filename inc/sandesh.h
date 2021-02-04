@@ -3,10 +3,6 @@
 #include<stdio.h>
 //FUNCTION DECLARATION
 
-void printsandesh()
-{
-    printf("I am sandesh prabhu \n");
-}
-
+void printsandesh();
 
 #endif

@@ -5,7 +5,8 @@ PROJECT_NAME = activity2a
 BUILD = build
 
 # All source code files
-SRC = main.c
+SRC = main.c\
+src/sandesh.c
 
 
 
